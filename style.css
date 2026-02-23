@@ -1,0 +1,82 @@
+/* 1. Стиль для body */
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA; /* светлый фон */
+    color: #333333;
+}
+
+/* 2. Стиль для header */
+header {
+    background-color: #4B79A1; /* синий фон */
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* 3. Стиль для nav (если будет добавлен) */
+nav {
+    background-color: #2C3E50; /* темно-синий */
+    padding: 10px;
+}
+
+/* 4. Стиль для main */
+main {
+    background-color: #F0F8FF; /* светло-голубой */
+    font-size: 16px;
+    padding: 20px;
+}
+
+/* 5. Стиль для footer */
+footer {
+    background-color: #4B79A1; /* синий фон, как header */
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
+/* 6. Стиль для li */
+li {
+    display: block;
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+/* 7. Стиль для h1 */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #2C3E50;
+}
+
+/* 8. Стиль для h2 */
+h2 {
+    font-family: 'Georgia', serif;
+    color: #34495E;
+    margin-top: 30px;
+}
+
+/* 9. Стиль для p */
+p {
+    line-height: 1.6;
+    color: #333333;
+}
+
+/* 10. Стили для ссылок */
+a {
+    color: #1B4F72;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* 11. Стили для изображений */
+img {
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
